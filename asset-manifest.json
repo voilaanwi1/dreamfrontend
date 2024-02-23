@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dreamfrontend/static/css/main.450b72b5.css",
+    "main.js": "/dreamfrontend/static/js/main.5356a6d8.js",
+    "static/js/787.5ad96c4b.chunk.js": "/dreamfrontend/static/js/787.5ad96c4b.chunk.js",
+    "static/media/backkground-sell.png": "/dreamfrontend/static/media/backkground-sell.36067c3e11077499ae6a.png",
+    "static/media/background-main.png": "/dreamfrontend/static/media/background-main.7bcc75de92c66862aefb.png",
+    "static/media/icon-logo.svg": "/dreamfrontend/static/media/icon-logo.a870a1f352bc0bf722336e2875d0776c.svg",
+    "static/media/icon-close.svg": "/dreamfrontend/static/media/icon-close.9157cf20598894a6dd2f90f6fbc5f7d6.svg",
+    "static/media/icon-fav.svg": "/dreamfrontend/static/media/icon-fav.a902110888aa5da2c9d7a3625c547f31.svg",
+    "static/media/icon-search.svg": "/dreamfrontend/static/media/icon-search.7c92db97a81640cabe38c656c2cf83af.svg",
+    "static/media/icon-back.svg": "/dreamfrontend/static/media/icon-back.2b0bb57cfb969678d64112623f133b4a.svg",
+    "static/media/icon-user.svg": "/dreamfrontend/static/media/icon-user.20ad41f64e574aabc18532ed501e2360.svg",
+    "index.html": "/dreamfrontend/index.html",
+    "main.450b72b5.css.map": "/dreamfrontend/static/css/main.450b72b5.css.map",
+    "main.5356a6d8.js.map": "/dreamfrontend/static/js/main.5356a6d8.js.map",
+    "787.5ad96c4b.chunk.js.map": "/dreamfrontend/static/js/787.5ad96c4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.450b72b5.css",
+    "static/js/main.5356a6d8.js"
+  ]
+}
