@@ -54,7 +54,7 @@ function SignUp() {
                     <input type="password" onChange={inputPassword} name="" placeholder="Enter Password" id="" />
                     <button onClick={signUpButton} class="signup-button">
                         {' '}
-                        <a href="/">Sign up</a>
+                        Sign up
                     </button>
                     <div class="foot"></div>
                     <button class="text" onClick={() => navigate('/signin')}>
