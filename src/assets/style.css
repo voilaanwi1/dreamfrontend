@@ -743,12 +743,17 @@ footer {
 
 .main2 .signin {
     position: absolute;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: rgba(255, 255, 255);
     background-attachment: fixed;
-    top: 28%;
-    left: 40%;
-    width: 20%;
+    top: 50%;
+    left: 50%;
+    width: 25%;
+    transform: translate(-50%, -50%);
     border-radius: 5px;
+    min-width: 300px;
+    padding-bottom: 20px;
+    max-width: 600px;
 }
 
 .main2 .signin h2 {
@@ -867,12 +872,6 @@ footer {
         width: 37%;
     }
 
-    .main2 .signin {
-        top: 23%;
-        left: 8%;
-        width: 84%;
-    }
-
     .main2 .signin button {
         font-size: 99%;
     }
@@ -885,15 +884,6 @@ footer {
 @media screen and (min-width: 350px) and (max-width: 500px) {
     .header2 .search {
         display: none;
-    }
-    .main2 .signin {
-        position: absolute;
-        background-color: rgba(255, 255, 255);
-        background-attachment: fixed;
-        top: 28%;
-        left: 14%;
-        width: 73%;
-        border-radius: 5px;
     }
 
     .main2 .options {
@@ -1142,9 +1132,9 @@ section.preview {
 .preview .title {
     display: flex;
 }
-.prev{
-position: relative;
-bottom: 5vw;
+.prev {
+    position: relative;
+    bottom: 5vw;
 }
 
 .preview img.main_image {
